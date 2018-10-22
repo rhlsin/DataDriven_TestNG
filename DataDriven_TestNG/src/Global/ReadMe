@@ -1,0 +1,19 @@
+In this package we have execute the data driven method, In this global package we have one class Annot5  
+we have one test case in which we have created Login () method which will drive data from D_driven.properties file 
+
+output:
+[RemoteTestNG] detected TestNG version 6.14.2
+selenium
+PASSED: Login1
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
